@@ -1,0 +1,1 @@
+https://www.geeksforgeeks.org/yaac-program-to-check-whether-given-string-is-palindrome-or-not/
